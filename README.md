@@ -6,7 +6,6 @@ Aplicação web simulando venda de fastfoods.
 ## 🚀 Tecnologias Utilizadas
 - JavaScript
 - React
-- MongoDB
 - Styled Components
 
 ## 📦 Pré-requisitos
@@ -23,7 +22,7 @@ git clone https://github.com/DaviMostaro/devsfood.git
 
 2. Entre na pasta do projeto:
 bash
-cd <nome-do-repositorio>
+cd devsfood
 
 
 3. Instale as dependências:
