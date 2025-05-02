@@ -44,10 +44,10 @@ yarn dev
 http://localhost:3000
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Storage com Redux
-- [x] <Funcionalidade 2 – Sistema de Login e manipulação de usuário
-- [x] <Funcionalidade 3 - Sistema de busca
-- [x] <Funcionalidade 4 - Reletório de pedidos
+- [x] Funcionalidade 1 – Storage com Redux
+- [x] Funcionalidade 2 – Sistema de Login e manipulação de usuário
+- [x] Funcionalidade 3 - Sistema de busca
+- [x] Funcionalidade 4 - Reletório de pedidos
 
 
 ## 👨‍💻 Autor
