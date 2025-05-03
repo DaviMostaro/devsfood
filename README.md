@@ -53,6 +53,6 @@ http://localhost:3000
 ## 👨‍💻 Autor
 Feito com 💙 por [DaviMostaro](https://github.com/DaviMostaro)  
 Entre em contato:
-- LinkedIn: [https://linkedin.com/in/<seu-usuario>](https://linkedin.com/in/<seu-usuario>)](https://www.linkedin.com/in/davi-mostaro-05a569361/)
+- LinkedIn: https://www.linkedin.com/in/davi-mostaro-05a569361/
 - Portfólio: https://my-repository-davimostaro.vercel.app/
 - Email: Davimostaroprofissional@gmail.com
