@@ -58,6 +58,13 @@ export default () => {
         getProducts();
     }, [activeCategory, activePage, activeSearch]);
 
+    useEffect(() => {
+        const token = localStorage.getItem('token');
+        if (!token) {
+            navigate('/login');
+        }
+    }, []);
+
     const handleProductClick = (data) => {
         setModalData(data);
         setModalStatus(true);
